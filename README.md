@@ -2,7 +2,7 @@
 Algoritmos e Lógica de Programaçâo Básico para Iniciantes
 
 Este repositório contém os scripts em Portugol criados no decorrer do curso EAD criado pelo professor Marco Maddo.
-O curso tem como objetivo ensinar as esttruturas clássicas sobre algoritmos e lógica de programação para pessoas
+O curso tem como objetivo ensinar as estruturas clássicas sobre algoritmos e lógica de programação para pessoas
 que não sabem nada sobre computação.
 
 Para conhecer o curso e a grade completa visite o site oficial clicando no link abaixo
